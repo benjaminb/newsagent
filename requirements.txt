@@ -1,0 +1,7 @@
+ipykernel
+jupyter
+langchain-community
+langchain-ollama
+langgraph
+langsmith
+notebook
